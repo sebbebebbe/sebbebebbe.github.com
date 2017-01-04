@@ -1,13 +1,13 @@
 # Site settings
 title: Sebastian Johansson
-email: johansson.sebastian@gmail.com
-url: https://example.github.io
+email: sebastian.johansson@hibbisoft.com
+url: http://hibbisoft.com
 description: ""
 skills: "Full stack .NET Developer - Web - Mobile"
 meta_author: Johansson Sebastian
 
 # Google webmaster tools
-google_verify:
+google_verify: ub8Nx02SyfXscOGsZPDXFd2gKAD2N_D8ZArfQYIkzqk
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: 
+  copyright:
   location: Location
   social: Reach out
   credits: Credits
@@ -39,20 +39,16 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/sebbe_bebbe
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/sebbebebbe
+  - title: linkedin
+    url: www.linkedin.com/in/sebastian-johansson
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Aromavägen 8
+  - line: Bjärred, SE237 35
 
 # Credits content
 credits: ''
