@@ -7,9 +7,5 @@ alt: Laerdal Medical
 project-date: January 2015
 client: Laerdal Medical
 category: Silverlight Development
-description: Laerdal Medical, one of the world’s leading providers of Healthcare Solutions, is dedicated to helping save lives. Laerdal serves healthcare providers and educators with products and services for Basic Life Support, Advanced Life Support, Simulation, Airway Management, Immobilization, Patient Care, Self-directed Learning and Medical Education.
-
-The project consisted of creating a product that would help students in medical training when using Laerdals manikin type products. SimView makes it possible to review what happened during the simulation. Sebastian was mainly responsible for the Silvelight-client. The SL-client made it possible to stream video from multiple cameras at once and handle stop and start of the recordings. When performing a review of a simulation the manikins vital signs are plotted on the timeline of the simulation for a more detailed feedback to the student.
-
-More information about this project can be seen on http://www.laerdal.com/se/SimView
+description: Laerdal Medical, one of the world’s leading providers of Healthcare Solutions, is dedicated to helping save lives. Laerdal serves healthcare providers and educators with products and services for Basic Life Support, Advanced Life Support, Simulation, Airway Management, Immobilization, Patient Care, Self-directed Learning and Medical Education. <br/> <br> The project consisted of creating a product that would help students in medical training when using Laerdals manikin type products. SimView makes it possible to review what happened during the simulation. Sebastian was mainly responsible for the Silvelight-client. The SL-client made it possible to stream video from multiple cameras at once and handle stop and start of the recordings. When performing a review of a simulation the manikins vital signs are plotted on the timeline of the simulation for a more detailed feedback to the student. <br/><br/> More information about this project can be seen on http://www.laerdal.com/se/SimView
 ---
