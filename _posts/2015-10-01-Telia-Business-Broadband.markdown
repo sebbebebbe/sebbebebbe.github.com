@@ -7,5 +7,5 @@ alt: Telia Denmark
 project-date: October 2015
 client: Telia Denmark
 category: Web Development
-description: Sebastian created new modules in the current B2B solution making it possible to onboard customers with assistance of credit and address information services.
+description: The main purpose of the project was to create new modules in the current B2B solution making it possible to onboard customers with assistance of credit and address information services.
 ---
