@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2015-01-01
-img: laerdal-logo.gif
+img: laerdal-logo.png
 alt: Laerdal Medical
 project-date: January 2015
 client: Laerdal Medical
