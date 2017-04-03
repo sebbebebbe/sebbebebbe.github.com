@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Johansson</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 03 Apr 2017 11:01:54 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 11:01:54 +0200</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>Xenduranceboxchallenge</title>
+        <description>Xendurance Box Challenge is a new online competition form, where you individually compete with yourself and your friends in your own box. Every month you can get access to 4 events – 1 event will be presented each week and you will have 1 week to perform the event – easy to fit in your own programming and training. The events are published during the competition on www.xenduranceboxchallenge.com. The site is made in pure html and javascript, built with jekyll.</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/web%20development/2017/02/01/xenduranceBoxChallenge/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/02/01/xenduranceBoxChallenge/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>I Love Lamp</title>
+        <description>I Love Lamp is a mobile app for Windows Phone that integrates with Tellstick .NET from &lt;a href=&quot;http://www.telldus.com&quot;&gt;Telldus Technologies AB&lt;/a&gt;. It lets the user turn on your lights and control your blinds. It is also possible to monitor different sensors around your house. It makes your house smarter with functions like turning a lamp on with NFC. It is available in the Windows Store.&lt;br/&gt; &lt;br/&gt; &lt;a href=&quot;https://www.microsoft.com/en-us/store/p/i-love-lamp/9nblggh0gx9m&quot;&gt; Download now from the Windows Store&lt;/a&gt;</description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/windows%20phone%20development/2016/10/01/I-Love-Lamp/</link>
+        <guid isPermaLink="true">http://localhost:4000/windows%20phone%20development/2016/10/01/I-Love-Lamp/</guid>
+        
+        
+        <category>Windows Phone Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Kjell&amp;company</title>
+        <description>Kjell &amp; Company sells electronic accessories on the consumer market through both retail stores and webshop. The company has more than 100 stores in total in both Norway and Sweden, HQ is situated in Malmö. The project consists of improving their webshop making the buyer experience easier for customers. Their new member club was also implemented and deployed in January of 2017. There has also been a lot of optimizations making it possible for the webshop to handle more users during campaigns.</description>
+        <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/web%20development/2016/01/01/Kjell&Company/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2016/01/01/Kjell&Company/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Telia Business Broadband</title>
+        <description>The main purpose of the project was to create new modules in the current B2B solution making it possible to onboard customers with assistance of credit and address information services.</description>
+        <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/web%20development/2015/10/01/Telia-Business-Broadband/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2015/10/01/Telia-Business-Broadband/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Simview</title>
+        <description>Laerdal Medical, one of the world’s leading providers of Healthcare Solutions, is dedicated to helping save lives. Laerdal serves healthcare providers and educators with products and services for Basic Life Support, Advanced Life Support, Simulation, Airway Management, Immobilization, Patient Care, Self-directed Learning and Medical Education. &lt;br/&gt; &lt;br&gt; The project consisted of creating a product that would help students in medical training when using Laerdals manikin type products. SimView makes it possible to review what happened during the simulation. Sebastian was mainly responsible for the Silvelight-client. The SL-client made it possible to stream video from multiple cameras at once and handle stop and start of the recordings. When performing a review of a simulation the manikins vital signs are plotted on the timeline of the simulation for a more detailed feedback to the student. &lt;br/&gt;&lt;br/&gt; More information about this project can be seen on &lt;a href=&quot;http://www.laerdal.com/se/SimView&quot;&gt; SimView Site&lt;/a&gt;</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/silverlight%20development/2015/01/01/SimView/</link>
+        <guid isPermaLink="true">http://localhost:4000/silverlight%20development/2015/01/01/SimView/</guid>
+        
+        
+        <category>Silverlight Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>

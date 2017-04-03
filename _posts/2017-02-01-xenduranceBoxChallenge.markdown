@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 4
-date: 2016-01-01
-img: kjell-logo.png
-alt: Kjell & Company
-project-date: January 2016
-client: Kjell & Company
+modal-id: 5
+date: 2017-02-01
+img: xenduranceBC.png
+alt: Xendurance Box Challenge
+project-date: February 2017
+client: Kronan Crossfit
 category: Web Development
-description: Kjell & Company sells electronic accessories on the consumer market through both retail stores and webshop. The company has more than 100 stores in total in both Norway and Sweden, HQ is situated in Malmö. The project consists of improving their webshop making the buyer experience easier for customers. Their new member club was also implemented and deployed in January of 2017. There has also been a lot of optimizations making it possible for the webshop to handle more users during campaigns.
+description: Xendurance Box Challenge is a new online competition form, where you individually compete with yourself and your friends in your own box. Every month you can get access to 4 events – 1 event will be presented each week and you will have 1 week to perform the event – easy to fit in your own programming and training. The events are published during the competition on www.xenduranceboxchallenge.com. The site is made in pure html and javascript, built with jekyll.
 ---
