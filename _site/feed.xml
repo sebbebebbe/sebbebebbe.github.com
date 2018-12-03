@@ -5,9 +5,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 03 Apr 2017 11:01:54 +0200</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2017 11:01:54 +0200</lastBuildDate>
+    <pubDate>Sun, 21 Jan 2018 19:40:49 +0100</pubDate>
+    <lastBuildDate>Sun, 21 Jan 2018 19:40:49 +0100</lastBuildDate>
     <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>Kronanthrowdown</title>
+        <description>Kronan Throwdown Series 2018 is a professionally organized Swedish competitions-series for both newcomers, intermediate, RX and masters athletes. With 3 years of experience within competitions organizations, events and with more than 2000 athletes, our constant goal is to offer a unique and well-planned competition experience for all athletes. Masters classes are for everyone who match the age criteria. The site is made with WordPress.</description>
+        <pubDate>Sun, 01 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/web%20development/2017/10/01/kronanthrowdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2017/10/01/kronanthrowdown/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
     
       <item>
         <title>Xenduranceboxchallenge</title>
@@ -58,7 +70,7 @@
       </item>
     
       <item>
-        <title>Simview</title>
+        <title>SimView</title>
         <description>Laerdal Medical, one of the world’s leading providers of Healthcare Solutions, is dedicated to helping save lives. Laerdal serves healthcare providers and educators with products and services for Basic Life Support, Advanced Life Support, Simulation, Airway Management, Immobilization, Patient Care, Self-directed Learning and Medical Education. &lt;br/&gt; &lt;br&gt; The project consisted of creating a product that would help students in medical training when using Laerdals manikin type products. SimView makes it possible to review what happened during the simulation. Sebastian was mainly responsible for the Silvelight-client. The SL-client made it possible to stream video from multiple cameras at once and handle stop and start of the recordings. When performing a review of a simulation the manikins vital signs are plotted on the timeline of the simulation for a more detailed feedback to the student. &lt;br/&gt;&lt;br/&gt; More information about this project can be seen on &lt;a href=&quot;http://www.laerdal.com/se/SimView&quot;&gt; SimView Site&lt;/a&gt;</description>
         <pubDate>Thu, 01 Jan 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/silverlight%20development/2015/01/01/SimView/</link>
